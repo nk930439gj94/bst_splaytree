@@ -1,6 +1,6 @@
 import sys
 import queue
-
+ 
 class node:
     def __init__(self, data, left=None, right=None, inorder=None):
         self.left = left
